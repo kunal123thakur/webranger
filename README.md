@@ -1,10 +1,4 @@
-# Lazarev Website 
-
-Welcome to the Lazarev Website Clone repository! This project is a work-in-progress clone of the Lazarev website, built using HTML, CSS, JavaScript.
-
-## Project Overview
-
-The Lazarev Website Clone aims to replicate the design and functionality of the original Lazarev website, showcasing products or services with an elegant and user-friendly interface.
+# WebRanger Website 
 
 ## Key Features
 
